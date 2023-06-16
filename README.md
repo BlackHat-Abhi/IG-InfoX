@@ -12,7 +12,7 @@ Get Instagram account information with this tool
 
 `cd IG-InfoX`
 
-`python3 IG-InfoX -h`
+`python3 IG-InfoX.py -h`
 
 ### Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
 
